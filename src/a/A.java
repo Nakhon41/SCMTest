@@ -22,5 +22,6 @@ public class A {
 		}
 		
 		return this.result;
+		}
 	}
 }
